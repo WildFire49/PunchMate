@@ -1,6 +1,6 @@
 # PunchMate: Keka Attendance Automation
 
-This Chrome extension automatically handles clock in and clock out actions on the Keka dashboard (newstreet.keka.com) based on your schedule.
+This Chrome extension automatically handles clock in and clock out actions on the Keka dashboard based on your schedule.
 
 ## Features
 
